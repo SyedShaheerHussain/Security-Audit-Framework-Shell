@@ -1,4 +1,4 @@
-# 🛡️ ZeroTrustAudit.ps1 – Enterprise Modern Security Audit Framework
+# 🛡️ Modern Security Audit Framework
 
 **Author:** Syed Shaheer Hussain
 
@@ -14,7 +14,7 @@ A **comprehensive Zero-Trust security auditing framework** for Windows, automati
 
 ## 🧠 Introduction
 
-`ZeroTrustAudit.ps1` is a **modern, enterprise-ready PowerShell script** for auditing Windows environments using Zero-Trust principles.
+`Audit Framework` is a **modern, enterprise-ready PowerShell script** for auditing Windows environments using Zero-Trust principles.
 It integrates **classic system checks** with **advanced features**:
 
 * MFA audit
