@@ -1,8 +1,11 @@
 # 🛡️ ZeroTrustAudit.ps1 – Enterprise Modern Security Audit Framework
 
 **Author:** Syed Shaheer Hussain
+
 **Version:** 3.0
+
 **License:** MIT License
+
 **Technologies:** PowerShell, Windows Security APIs, WMI, COM, REST, HTML/JSON Reporting
 
 ## 📄 One-Line Description
