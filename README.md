@@ -200,3 +200,21 @@ Send-SlackNotification -WebhookUrl "https://hooks.slack.com/services/XXX/XXX/XXX
 * **When:** Anytime a Windows system needs a security audit
 * **Where:** Windows endpoints, servers, labs
 * **Why:** Improve security posture, prevent breaches, ensure compliance
+
+## ⭐ Support & Engagement
+
+If you find this repository useful or insightful, please consider:
+
+- ⭐ Starring the repository
+- 🔁 Sharing it within your network
+- 👤 Following my GitHub profile for future projects and updates
+
+Your support helps drive continued innovation and open-source contributions.
+
+— Syed Shaheer Hussain
+
+[![GitHub followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Follow&style=social)](https://github.com/SyedShaheerHussain)
+
+![Followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Followers&color=blue)
+
+![Stars](https://img.shields.io/github/stars/SyedShaheerHussain/Security-Audit-Framework-Shell?label=Stars&color=yellow)
